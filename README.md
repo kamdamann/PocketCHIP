@@ -19,6 +19,9 @@ Connectivity: Wi-Fi and Bluetooth
 Battery: 5-hour LiPo battery
 Operating System: Customized Debian-based Linux*
 
+https://cdn.cnx-software.com/wp-content/uploads/2015/07/CHIP_Block_Diagram_Schematics.png?lossy=0&strip=none![image](https://github.com/user-attachments/assets/2a3b09b6-ecae-4535-91a7-8fd4d6341c91)
+
+
 Building on the success of the CHIP, Next Thing Co. introduced the PocketCHIP, a handheld version with a built-in keyboard and touchscreen display. The PocketCHIP includes a 1GHz ARM CPU, 4GB of flash storage, 512MB of RAM, Wi-Fi, Bluetooth, and a 4.3-inch touchscreen display
 
 Despite its initial success, Next Thing Co. faced financial difficulties and eventually went insolvent in 2018. As a result, the PocketCHIP and other products were discontinued.
